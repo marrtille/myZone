@@ -1,0 +1,6 @@
+flask
+pandas
+joblib
+shap
+matplotlib
+pip install -r requirements.txt
